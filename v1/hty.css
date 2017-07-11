@@ -1,0 +1,40 @@
+body{
+
+  background: rgba(179,220,237,1);
+  background: -moz-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(188,224,238,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(179,220,237,1)), color-stop(50%, rgba(41,184,229,1)), color-stop(100%, rgba(188,224,238,1)));
+  background: -webkit-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(188,224,238,1) 100%);
+  background: -o-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(188,224,238,1) 100%);
+  background: -ms-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(188,224,238,1) 100%);
+  background: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(188,224,238,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );
+
+}
+.container
+{
+  text-align: center;
+  margin-top: 10px;
+}
+.jumbotron
+{
+  background-color: #4286f4;
+  color: black;
+  background-size: cover;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/A62_Stock_5163_at_Chorleywood.jpg/1200px-A62_Stock_5163_at_Chorleywood.jpg") no-repeat center center;
+  width: 100%;
+  height: 40%;
+}
+h1
+{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+.thumbnail
+{
+   background-color: black;
+   padding: 2%;
+   color:yellow;
+   width: 80%;
+   margin-left: 10%;
+
+}
