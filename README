@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 
 <body>
@@ -20,3 +21,8 @@ There are two different design. Please download both and just run the hty.html f
 </div>
 </body>
 </html>
+=======
+In these codes, the live data is populated from the digitrafic-service APIs.
+
+There are two different design. Please download and just run the hty.html file.
+>>>>>>> 1a8cf5f457fcb443e54af41975ebfc901586c82a
