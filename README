@@ -1,23 +1,9 @@
-<!DOCTYPE html>
-<html>
-
-<body>
-<p>
-The live data populated from the digitrafic-service APIs is used to see the
-current train departures.
-</p>
-<p>
+ 
+The live data provided by the digitrafic-service APIs is used to see the current train departures.
+ 
 In the project, bootstrap is used for the visual part. 
+
 Data is fetched by getJSON and then put in the single page website.
-</p>
-<p>
+ 
 There are two different design. Please download both and just run the hty.html file.
-</p>
-<div>
-	<img src="/home/taylan/Pictures/13.png">
-</div>
-<div>
-	<img src="/home/taylan/Pictures/12.png">
-</div>
-</body>
-</html>
+ 
